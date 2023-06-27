@@ -1,0 +1,1 @@
+# 本项目是Django官方新手教程part1-7的实现.项目地址为[Django 文档](https://docs.djangoproject.com/zh-hans/4.2/)
